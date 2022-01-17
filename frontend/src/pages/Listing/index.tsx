@@ -18,7 +18,7 @@ function Listing() {
         number: 0,
         first: true,
         numberOfElements: 0,
-        empty: trues
+        empty: true
     });
 
     useEffect(() => {
